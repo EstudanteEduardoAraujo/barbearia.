@@ -1,2 +1,2 @@
-# barbearia.
-Isso é um site educacional sobre barbearia 
+# barba
+Pagina comercial para aprendizagem.
